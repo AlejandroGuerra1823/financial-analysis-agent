@@ -1,0 +1,48 @@
+{"id": "t001", "date": "2026-07-01", "description": "PAGO NOMINA SOFKA TECHNOLOGIES", "amount_cop": 6000000, "category": "income", "is_anomaly": false}
+{"id": "t002", "date": "2026-07-02", "description": "ARRIENDO APARTAMENTO POBLADO", "amount_cop": -1800000, "category": "housing", "is_anomaly": false}
+{"id": "t003", "date": "2026-07-02", "description": "TRANSFERENCIA A AHORROS BANCOLOMBIA", "amount_cop": -800000, "category": "transfers", "is_anomaly": false}
+{"id": "t004", "date": "2026-07-03", "description": "EXITO POBLADO", "amount_cop": -320000, "category": "groceries", "is_anomaly": false}
+{"id": "t005", "date": "2026-07-05", "description": "EPM SERVICIOS PUBLICOS", "amount_cop": -285000, "category": "utilities", "is_anomaly": false}
+{"id": "t006", "date": "2026-07-05", "description": "CLARO PLAN POSPAGO", "amount_cop": -89900, "category": "utilities", "is_anomaly": false}
+{"id": "t007", "date": "2026-07-06", "description": "TIGO INTERNET HOGAR", "amount_cop": -95000, "category": "utilities", "is_anomaly": false}
+{"id": "t008", "date": "2026-07-07", "description": "NETFLIX.COM", "amount_cop": -26900, "category": "entertainment", "is_anomaly": false}
+{"id": "t009", "date": "2026-07-08", "description": "SPOTIFY", "amount_cop": -16900, "category": "entertainment", "is_anomaly": false}
+{"id": "t010", "date": "2026-07-09", "description": "RAPPI*RESTAURANTE FRISBY", "amount_cop": -45900, "category": "dining", "is_anomaly": false}
+{"id": "t011", "date": "2026-07-10", "description": "UBER TRIP", "amount_cop": -18500, "category": "transport", "is_anomaly": false}
+{"id": "t012", "date": "2026-07-11", "description": "D1 LAURELES", "amount_cop": -48000, "category": "groceries", "is_anomaly": false}
+{"id": "t013", "date": "2026-07-12", "description": "CINE COLOMBIA", "amount_cop": -42000, "category": "entertainment", "is_anomaly": false}
+{"id": "t014", "date": "2026-07-14", "description": "DIDI VIAJE", "amount_cop": -12800, "category": "transport", "is_anomaly": false}
+{"id": "t015", "date": "2026-07-15", "description": "FARMATODO", "amount_cop": -68500, "category": "health", "is_anomaly": false}
+{"id": "t016", "date": "2026-07-17", "description": "CARULLA", "amount_cop": -210000, "category": "groceries", "is_anomaly": false}
+{"id": "t017", "date": "2026-07-19", "description": "TERPEL GASOLINA", "amount_cop": -120000, "category": "transport", "is_anomaly": false}
+{"id": "t018", "date": "2026-07-21", "description": "RAPPI*MCDONALDS", "amount_cop": -38900, "category": "dining", "is_anomaly": false}
+{"id": "t019", "date": "2026-07-23", "description": "CUOTA MANEJO TARJETA BANCOLOMBIA", "amount_cop": -19900, "category": "fees", "is_anomaly": false}
+{"id": "t020", "date": "2026-07-25", "description": "MERCADO LIBRE COMPRA", "amount_cop": -156000, "category": "shopping", "is_anomaly": false}
+{"id": "t021", "date": "2026-07-26", "description": "CRUNCHYROLL", "amount_cop": -23900, "category": "entertainment", "is_anomaly": false}
+{"id": "t022", "date": "2026-07-28", "description": "EXITO POBLADO", "amount_cop": -298000, "category": "groceries", "is_anomaly": false}
+{"id": "t023", "date": "2026-07-30", "description": "RESTAURANTE EL CIELO", "amount_cop": -185000, "category": "dining", "is_anomaly": false}
+{"id": "t024", "date": "2026-08-01", "description": "PAGO NOMINA SOFKA TECHNOLOGIES", "amount_cop": 6000000, "category": "income", "is_anomaly": false}
+{"id": "t025", "date": "2026-08-02", "description": "ARRIENDO APARTAMENTO POBLADO", "amount_cop": -1800000, "category": "housing", "is_anomaly": false}
+{"id": "t026", "date": "2026-08-02", "description": "TRANSFERENCIA A AHORROS BANCOLOMBIA", "amount_cop": -800000, "category": "transfers", "is_anomaly": false}
+{"id": "t027", "date": "2026-08-04", "description": "EPM SERVICIOS PUBLICOS", "amount_cop": -2450000, "category": "utilities", "is_anomaly": true}
+{"id": "t028", "date": "2026-08-05", "description": "CLARO PLAN POSPAGO", "amount_cop": -89900, "category": "utilities", "is_anomaly": false}
+{"id": "t029", "date": "2026-08-06", "description": "TIGO INTERNET HOGAR", "amount_cop": -95000, "category": "utilities", "is_anomaly": false}
+{"id": "t030", "date": "2026-08-07", "description": "NETFLIX.COM", "amount_cop": -44900, "category": "entertainment", "is_anomaly": true}
+{"id": "t031", "date": "2026-08-09", "description": "RAPPI*CREPES AND WAFFLES", "amount_cop": -89900, "category": "dining", "is_anomaly": true}
+{"id": "t032", "date": "2026-08-10", "description": "RAPPI*CREPES AND WAFFLES", "amount_cop": -89900, "category": "dining", "is_anomaly": true}
+{"id": "t033", "date": "2026-08-10", "description": "SPOTIFY", "amount_cop": -16900, "category": "entertainment", "is_anomaly": false}
+{"id": "t034", "date": "2026-08-11", "description": "UBER TRIP", "amount_cop": -22400, "category": "transport", "is_anomaly": false}
+{"id": "t035", "date": "2026-08-12", "description": "D1 LAURELES", "amount_cop": -52000, "category": "groceries", "is_anomaly": false}
+{"id": "t036", "date": "2026-08-13", "description": "PANADERIA SANTA ELENA", "amount_cop": -28500, "category": "dining", "is_anomaly": false}
+{"id": "t037", "date": "2026-08-14", "description": "TERPEL GASOLINA", "amount_cop": -115000, "category": "transport", "is_anomaly": false}
+{"id": "t038", "date": "2026-08-15", "description": "STEAM GAMES", "amount_cop": -89000, "category": "entertainment", "is_anomaly": false}
+{"id": "t039", "date": "2026-08-16", "description": "CARULLA", "amount_cop": -185000, "category": "groceries", "is_anomaly": false}
+{"id": "t040", "date": "2026-08-17", "description": "COMPRA INT 03:47 GMX*CRYPTOWIN LTD MALTA", "amount_cop": -1890000, "category": "shopping", "is_anomaly": true}
+{"id": "t041", "date": "2026-08-19", "description": "DIDI VIAJE", "amount_cop": -15600, "category": "transport", "is_anomaly": false}
+{"id": "t042", "date": "2026-08-20", "description": "FARMATODO", "amount_cop": -45200, "category": "health", "is_anomaly": false}
+{"id": "t043", "date": "2026-08-21", "description": "CUOTA MANEJO TARJETA BANCOLOMBIA", "amount_cop": -19900, "category": "fees", "is_anomaly": false}
+{"id": "t044", "date": "2026-08-23", "description": "RAPPI*WOK", "amount_cop": -52300, "category": "dining", "is_anomaly": false}
+{"id": "t045", "date": "2026-08-25", "description": "AMAZON MARKETPLACE", "amount_cop": -230000, "category": "shopping", "is_anomaly": false}
+{"id": "t046", "date": "2026-08-27", "description": "EXITO POBLADO", "amount_cop": -310000, "category": "groceries", "is_anomaly": false}
+{"id": "t047", "date": "2026-08-29", "description": "INTERESES CUENTA AHORROS", "amount_cop": 12500, "category": "income", "is_anomaly": false}
+{"id": "t048", "date": "2026-08-30", "description": "RESTAURANTE CAREGO", "amount_cop": -95000, "category": "dining", "is_anomaly": false}
