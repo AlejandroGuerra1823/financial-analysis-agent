@@ -34,14 +34,18 @@ Design decisions worth reading the code for:
 
 The agent is scored end-to-end (real model calls) against `evals/dataset.jsonl`: 48 labeled Colombian transactions with 5 planted anomalies of increasing difficulty — from rule-catchable (duplicate charge) to semantic-only (a subscription price jump the rules cannot see) — plus deliberate rule false-positives the reviewer must dismiss.
 
+Results with `claude-opus-5` (2026-10-01, full breakdown in [`evals/RESULTS.md`](evals/RESULTS.md)):
+
 | Metric | Result |
 |---|---|
-| Categorization accuracy | *pending first published run* |
-| Anomaly precision | *pending* |
-| Anomaly recall | *pending* |
-| Anomaly F1 | *pending* |
+| Categorization accuracy | **95.8%** (46/48) |
+| Anomaly precision | **100%** (0 false positives) |
+| Anomaly recall | **80%** (4/5) |
+| Anomaly F1 | **0.89** |
 
-Reproduce: `ANTHROPIC_API_KEY=... uv run python evals/run_evals.py` → writes `evals/RESULTS.md` (full per-category table, false positives/negatives) and `evals/sample_report.md` (the generated report).
+**Reading the results honestly:** the reviewer dismissed both deliberate rule false-positives (the one-off game purchase and the upscale restaurant) — the hybrid design doing its job. The one "miss" is a judgment call, not a blind spot: for the duplicate charge pair, the agent flagged only the **second** occurrence (the gold labels mark both) — which is arguably what a human analyst would do, since the first charge is the legitimate one. The two misclassifications are genuinely ambiguous merchants (a bakery labeled dining, predicted groceries; the suspicious foreign charge labeled shopping, predicted other — while still being **caught as an anomaly**).
+
+Reproduce: `ANTHROPIC_API_KEY=... uv run python evals/run_evals.py` → rewrites `evals/RESULTS.md` and `evals/sample_report.md` (the generated report).
 
 ## Quickstart
 
